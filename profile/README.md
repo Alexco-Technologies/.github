@@ -34,7 +34,7 @@ Stay updated with our latest projects and innovations! Follow us on:
 ## 📧 Contact Us
 Have a question or an exciting opportunity? Reach out to us:
 
-- Email: [info@alexcotechnologies.com](mailto:info@alexco.lk)
+- Website: [www.alexco.lk](https://www.alexco.lk)
 - Phone: +94 11 4 680 780
 
 ---

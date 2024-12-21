@@ -23,11 +23,7 @@ Our current focus areas include:
 
 Stay updated with our latest projects and innovations! Follow us on:
 
-[<i class="fab fa-linkedin"></i> LinkedIn](https://linkedin.com/company/alexcotechnologies)  
-[<i class="fab fa-facebook"></i> Facebook](https://facebook.com/alexcotechnologies)  
-[<i class="fab fa-twitter"></i> Youtube](https://www.youtube.com/@AlexcoTechnologies)  
-[<i class="fab fa-instagram"></i> Instagram](https://www.instagram.com/alexcotechnologies/)
-[<i class="fab fa-tiktok"></i> TikTok](https://www.tiktok.com/@alexcotechnologies)
+[<i class="fab fa-linkedin"></i> LinkedIn](https://linkedin.com/company/alexcotechnologies)  [<i class="fab fa-facebook"></i> Facebook](https://facebook.com/alexcotechnologies)  [<i class="fab fa-twitter"></i> Youtube](https://www.youtube.com/@AlexcoTechnologies)  [<i class="fab fa-instagram"></i> Instagram](https://www.instagram.com/alexcotechnologies/) [<i class="fab fa-tiktok"></i> TikTok](https://www.tiktok.com/@alexcotechnologies)
 
 ---
 
